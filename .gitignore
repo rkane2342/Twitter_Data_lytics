@@ -1,0 +1,10 @@
+.DS_Store
+.idea/
+@Ruturaj__Bhokre_tweets.csv
+
+bin/
+include/
+lib/
+pai.py
+python-ar.py
+work_tweet.py
