@@ -1,5 +1,5 @@
 import tweepy
-import json
+
 
 # API Information: replace values with your own
 consumer_key = "XXXXXXXXX"
