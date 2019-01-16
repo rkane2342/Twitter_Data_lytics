@@ -1,11 +1,6 @@
 import tweepy
 
-
-# API Information: replace values with your own
-consumer_key = "XXXXXXXXX"
-consumer_secret = "XXXXXXX"
-access_key = "XXXXX"
-access_secret = "XXXXXX"
+import Credentials
 
 # Authorization for consumer key and consumer secret
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
